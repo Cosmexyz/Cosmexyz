@@ -22,5 +22,5 @@ Meu nome é Cosme.
 
 ## 🎯 Objetivo
 
-Me tornar um desenvolvedor sólido e trabalhar com tecnologia.
+Me tornar um desenvolvedor sólido e contribuir para projetos reais de software, e quem sabe construir um bom mercado de tecnologia no Brasil.
 
