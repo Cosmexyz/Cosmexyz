@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**Cosmexyz/Cosmexyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cosme.
 
-Here are some ideas to get you started:
+🎓 Estudante de Ciência da Computação  
+💻 Aprendendo Python e Java  
+🚀 Focado em me tornar desenvolvedor  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+
+- Python
+- Lógica de programação
+- Algoritmos
+- Java
+
+## 🧠 Projetos
+
+- Scripts básicos em Python
+- Exercícios de lógica
+- Projetos da faculdade
+  
+
+## 🎯 Objetivo
+
+Me tornar um desenvolvedor sólido e trabalhar com tecnologia.
+
