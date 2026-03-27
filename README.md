@@ -17,12 +17,12 @@ Meu nome é Cosme.
 
 - Scripts básicos em Python
 - Exercícios de lógica
-   python-Fundamentos
-   java-fundamentos
+   - python-Fundamentos
+   - java-fundamentos
 - Projetos da faculdade
-   Used-Car-Price-Predicion---IA-Supervisionada
-   DesafiosPython-Facul
-   ListaPython-Facul
+   - Used-Car-Price-Predicion---IA-Supervisionada
+   - DesafiosPython-Facul
+   - ListaPython-Facul
   
 
 ## 🎯 Objetivo
